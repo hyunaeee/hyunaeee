@@ -2,7 +2,7 @@
 
 **Machine Learning / AI Engineer**
 
-🇰🇷 한국어 | [🇺🇸 English below](#hello--im-hyunae-park)
+🇰🇷 한국어 | 🇺🇸 English (below)
 
 ---
 
