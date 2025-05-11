@@ -26,7 +26,6 @@
 
 - Blog: [https://velog.io/@hyunaeee](https://velog.io/@hyunaeee)
 - Email: hyunaeee@gmail.com
-- GitHub: [https://github.com/hyunaeee](https://github.com/hyunaeee)
 
 ---
 
@@ -52,7 +51,6 @@
 
 - Blog: [https://velog.io/@hyunaeee](https://velog.io/@hyunaeee)
 - Email: hyunae.dev@gmail.com
-- GitHub: [https://github.com/hyunaeee](https://github.com/hyunaeee)
 
 
 ---
