@@ -17,9 +17,8 @@
 
 ## 📌 대표 프로젝트
 
-- **🔗 [3D 얼굴 복원 논문 구현](https://github.com/hyunaeee/3D-reconstruction)**
-- **🧠 [Semantic Segmentation with UNet](https://github.com/hyunaeee/PR_semantic_image_segmentation_unet)**
-- **🎨 [Stable Diffusion 실험](https://github.com/hyunaeee/StableDiffusion)**
+- **🔗 [수어 번역용 3D 캐릭터 구현](https://github.com/hyunaeee/3D_char_sign_lang)**
+
 
 ---
 
@@ -44,9 +43,8 @@
 
 ## 🌟 Highlighted Projects
 
-- **[3D Face Reconstruction - Paper Implementation](https://github.com/hyunaeee/3D-reconstruction)**
-- **[UNet for Semantic Image Segmentation](https://github.com/hyunaeee/PR_semantic_image_segmentation_unet)**
-- **[Stable Diffusion Playground](https://github.com/hyunaeee/StableDiffusion)**
+- **[3D Character Sign Language Animation Project](https://github.com/hyunaeee/3D_char_sign_lang)**
+
 
 ---
 
