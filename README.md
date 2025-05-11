@@ -1,36 +1,61 @@
-# 👋 안녕하세요, gaebaldaramg입니다!
+# 👋 박현애 Hyunae Park
 
-AI와 머신러닝에 깊은 관심을 가지고 있으며, AI 모델 최적화 및 백엔드 개발을 공부하고 있습니다. 프로젝트를 통해 실력을 쌓고 있으며, 협업을 통해 성장하고 있습니다. 😊
+**Machine Learning / AI Engineer **
 
-🌱 **현재 배우고 있는 것들:**
-- 딥러닝 및 AI 모델 최적화
-- MLOps 및 백엔드 시스템 구축
+🇰🇷 한국어 | [🇺🇸 English below](#hello--im-hyunae-park)
 
-🔭 **진행 중인 프로젝트:**
-- **[Stable Diffusion 모델](https://github.com/hyunaeee/StableDiffusion)**
-- **[3D Reconstruction](https://github.com/hyunaeee/3D-reconstruction)**
+---
 
-## 🛠️ **기술 스택**
+### 💡 주요 소개
 
-- **Programming Languages**: Python, C++, JavaScript
-- **Frameworks/Libraries**: PyTorch, TensorFlow, OpenCV, FastAPI
-- **Cloud/DevOps**: AWS, Docker, Kubernetes, Git
-- **Other Tools**: GitHub, Jupyter, VSCode
+- 🤖 Upstage AI Lab 부트캠프 수료 (LLM 최적화, AI 시스템 설계 실습)
+- 🔍 AI 모델 서빙/최적화 및 백엔드 개발 경험
+- 🧠 기획-개발을 아우르는 이해도 (CAD/CAE 인턴 경험 기반)
+- 🛠️ 주요 스택: Python, FastAPI, Docker, Pytorch, HuggingFace, LangChain
 
-## 🏆 **Top Languages**
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunaeee&layout=compact)
+## 📌 대표 프로젝트
 
-## 📦 **주요 프로젝트**
+- **🔗 [3D 얼굴 복원 논문 구현](https://github.com/hyunaeee/3D-reconstruction)**
+- **🧠 [Semantic Segmentation with UNet](https://github.com/hyunaeee/PR_semantic_image_segmentation_unet)**
+- **🎨 [Stable Diffusion 실험](https://github.com/hyunaeee/StableDiffusion)**
 
-### [Stable Diffusion](https://github.com/hyunaeee/StableDiffusion)
-AI 기반 이미지 생성 모델로, 다양한 스타일의 이미지를 생성할 수 있는 기능을 제공하는 프로젝트입니다.
+---
 
-### [PR_semantic_image_segmentation_unet](https://github.com/hyunaeee/PR_semantic_image_segmentation_unet)
-U-Net 모델을 사용하여 세그멘테이션 작업을 수행하는 프로젝트입니다.
+## 📫 연락처
 
-### [3D Reconstruction](https://github.com/hyunaeee/3D-reconstruction)
-3D 모델을 만들고 시각화하는 프로젝트로, 다양한 기술을 사용하여 모델을 최적화하고 있습니다.
+- Blog: [https://velog.io/@hyunaeee](https://velog.io/@hyunaeee)
+- Email: hyunaeee@gmail.com
+- GitHub: [https://github.com/hyunaeee](https://github.com/hyunaeee)
+
+---
+
+## 🇺🇸 Hello 👋 I'm Hyunae Park
+
+**ML/AI Engineer with a background in AI product planning**
+
+- 🧠 Participated in Upstage AI Lab Bootcamp (LLM, Model Serving, Optimization)
+- 🧪 Strong in both backend engineering and AI model operations
+- 💬 Bridging technical implementation and user-friendly design, with hands-on experience using CAD/CAE tools during internship
+- ⚙️ Tech Stack: Python, FastAPI, Docker, Pytorch, HuggingFace, LangChain
+
+---
+
+## 🌟 Highlighted Projects
+
+- **[3D Face Reconstruction - Paper Implementation](https://github.com/hyunaeee/3D-reconstruction)**
+- **[UNet for Semantic Image Segmentation](https://github.com/hyunaeee/PR_semantic_image_segmentation_unet)**
+- **[Stable Diffusion Playground](https://github.com/hyunaeee/StableDiffusion)**
+
+---
+
+## 📬 Contact
+
+- Blog: [https://velog.io/@hyunaeee](https://velog.io/@hyunaeee)
+- Email: hyunae.dev@gmail.com
+- GitHub: [https://github.com/hyunaeee](https://github.com/hyunaeee)
+
 
 ---
 
