@@ -63,11 +63,9 @@
 
 📬 **연락처**: hyunaeee@gmail.com
 
-<details>
-  <summary>Click to expand</summary>
 
-  ![image](https://github.com/user-attachments/assets/0d3dea6f-4827-4283-8941-c9452439c32c)
-  ![image](https://github.com/user-attachments/assets/1ad914e9-944f-4dad-9345-1e80ba833730)
+  <img src="https://github.com/user-attachments/assets/0d3dea6f-4827-4283-8941-c9452439c32c" width="450" />
+  <img src="https://github.com/user-attachments/assets/1ad914e9-944f-4dad-9345-1e80ba833730" width="450" />
 
 
 
