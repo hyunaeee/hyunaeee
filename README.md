@@ -50,7 +50,7 @@
 ## 📬 Contact
 
 - Blog: [https://velog.io/@hyunaeee](https://velog.io/@hyunaeee)
-- Email: hyunae.dev@gmail.com
+- Email: hyunaeee@gmail.com
 
 
 ---
