@@ -1,6 +1,6 @@
-# 👋 박현애 Hyunae Park
+# 👋 박현애 | Hyunae Park
 
-**Machine Learning / AI Engineer **
+**Machine Learning / AI Engineer**
 
 🇰🇷 한국어 | [🇺🇸 English below](#hello--im-hyunae-park)
 
