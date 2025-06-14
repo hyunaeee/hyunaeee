@@ -18,8 +18,8 @@
 ## 📌 대표 프로젝트
 
 - **🔗 [수어 번역용 3D 캐릭터 구현](https://github.com/hyunaeee/3D_char_sign_lang)**
-
-
+- **🔗 [자격증 취득용 AI 학습 앱](https://github.com/hyunaeee/ai_certification_helper)**
+  
 ---
 
 ## 📫 연락처
