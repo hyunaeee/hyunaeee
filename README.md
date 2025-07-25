@@ -9,7 +9,7 @@
 ### 💡 주요 소개
 
 - 🤖 AI 모델 서빙/최적화 및 MLOps 개발 경험
-- 🧠 기획-개발을 아우르는 이해도 (CAD/CAE 인턴 경험 기반)
+- 🧠 기획-개발 주도
 - 🛠️ 주요 스택: Python, FastAPI, Docker, Pytorch, HuggingFace, LangChain, StableDiffusion, Midjourney
 
 ---
