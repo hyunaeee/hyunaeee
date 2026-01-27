@@ -53,14 +53,6 @@
 
 ---
 
-🎯 **"AI로 세상을 변화시키고 싶습니다."**
-
-📝 **현재 목표**:
-- AI 기술을 활용한 다양한 프로젝트 진행
-- 더 나은 모델 최적화 및 시스템 구축
-
-
-
   <img src="https://github.com/user-attachments/assets/0d3dea6f-4827-4283-8941-c9452439c32c" width="380" />
   <img src="https://github.com/user-attachments/assets/1ad914e9-944f-4dad-9345-1e80ba833730" width="380" />
 
