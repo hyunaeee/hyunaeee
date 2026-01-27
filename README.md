@@ -18,7 +18,6 @@
 
 - **🔗 [Legal PDF RAG Chatbot](https://github.com/hyunaeee/legal-pdf-rag-chatbot)**
 - **🔗 [Medical RAG Chatbot](https://github.com/hyunaeee/med-rag)**
-- **🔗 [AI Study Guide - Certification Helper](https://github.com/hyunaeee/ai-certification-helper)**
   
 ---
 
@@ -42,8 +41,7 @@
 ## 🌟 Highlighted Projects
 
 - **🔗 [Legal PDF RAG Chatbot](https://github.com/hyunaeee/legal-pdf-rag-chatbot)**
-- **🔗 [AI Travel Guide - RouteStory AI Agent](https://github.com/hyunaeee/ai_travel_guide/tree/main)**
-- **🔗 [AI Study Guide - Certification Helper](https://github.com/hyunaeee/ai-certification-helper)** -> 10/06/25~present
+- **🔗 [Medical RAG Chatbot](https://github.com/hyunaeee/med-rag)**
 
 ---
 
