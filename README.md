@@ -1,17 +1,5 @@
 # 👋 박현애 | Hyunae Park
 
-**Machine Learning / AI Engineer**
-
-🇰🇷 한국어 | 🇺🇸 English (below)
-
----
-
-### 💡 주요 소개
-
-- 🤖 AI 모델 서빙/최적화 및 MLOps 개발 경험
-- 🧠 기획-개발 주도
-- 🛠️ 주요 스택: Python, FastAPI, Docker, Pytorch, HuggingFace, LangChain, StableDiffusion, Midjourney
-
 ---
 
 ## 📌 대표 프로젝트
@@ -55,8 +43,8 @@
 
   <img src="https://github.com/user-attachments/assets/0d3dea6f-4827-4283-8941-c9452439c32c" width="380" />
   <img src="https://github.com/user-attachments/assets/1ad914e9-944f-4dad-9345-1e80ba833730" width="380" />
-  <img src="https://cdn.qwiklabs.com/O6CRiZbl9kjJryKZjVSTgzIVqWE%2BOmkIlLUA%2FydzZ70%3D" width="380" />
-  <img src="https://cdn.qwiklabs.com/vUoRu6uyC0L0eFG1vIyt2oi1M4bFziSrh2hgz3flmuU%3D" width="380" />
+  <img src="https://cdn.qwiklabs.com/O6CRiZbl9kjJryKZjVSTgzIVqWE%2BOmkIlLUA%2FydzZ70%3D" width="350" />
+  <img src="https://cdn.qwiklabs.com/vUoRu6uyC0L0eFG1vIyt2oi1M4bFziSrh2hgz3flmuU%3D" width="350" />
   
 
 
