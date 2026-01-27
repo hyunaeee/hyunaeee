@@ -17,8 +17,8 @@
 ## 📌 대표 프로젝트
 
 - **🔗 [Legal PDF RAG Chatbot](https://github.com/hyunaeee/legal-pdf-rag-chatbot)**
-- **🔗 [AI Travel Guide - RouteStory AI Agent](https://github.com/hyunaeee/ai_travel_guide/tree/main)**
-- **🔗 [AI Study Guide - Certification Helper](https://github.com/hyunaeee/ai-certification-helper)** -> 준비중 2025/06~present
+- **🔗 [Medical RAG Chatbot](https://github.com/hyunaeee/med-rag)**
+- **🔗 [AI Study Guide - Certification Helper](https://github.com/hyunaeee/ai-certification-helper)**
   
 ---
 
