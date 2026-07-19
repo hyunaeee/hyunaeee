@@ -2,6 +2,7 @@
 
 **ML/AI Engineer with a background in AI product planning**
 
+- 🍒 **Portfolio: [hyunaeee.github.io/aengdo-portfolio](https://hyunaeee.github.io/aengdo-portfolio/portfolio.html)** — hospital-deployed RAG agent, multi-agent orchestration, and 19 shipped products
 - 🧪 Strong in both backend engineering and AI model operations
 - 💬 Bridging technical implementation and user-friendly design, with hands-on experience using CAD/CAE tools during internship
 - ⚙️ Tech Stack: Python, Docker, RAG, LangChain, Streamlit
