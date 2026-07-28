@@ -11,7 +11,7 @@ Neuroscience × Computer Science (Korea University) → LLM agents, RAG systems,
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[med-rag](https://github.com/hyunaeee/med-rag)** | Clinical RAG assistant **delivered to Korea University Anam Hospital (2025.10)** — runs fully on-prem because patient data can't leave the network · [live demo](https://hyunaeee.github.io/aengdo-portfolio/med-rag/) | Gemma 3 27B / Ollama · LangChain · Chroma |
+| **med-rag** (code private — company delivery) | Clinical RAG assistant **delivered to Korea University Anam Hospital (2025.10)** — runs fully on-prem because patient data can't leave the network · [live demo](https://hyunaeee.github.io/aengdo-portfolio/med-rag/) | Gemma 3 27B / Ollama · LangChain · Chroma |
 | **[agent-orchestra](https://github.com/hyunaeee/agent-orchestra)** | Multi-agent orchestration reference — supervisor fan-out to parallel researchers, A2A message envelopes, shared + procedural memory, eval harness (6/6) | LangGraph · LangSmith · Claude API |
 | **med-rag-vertex** | Cloud-native port of med-rag — ADK `SequentialAgent` (researcher → safety reviewer) + LLM-judge eval pipeline with latency/cost metrics | Vertex AI · Gemini 2.5 · ADK |
 | **[terracotta](https://github.com/hyunaeee/terracotta)** | Multi-model AI workspace — auto-routing across 4 providers (bench: **−52% cost vs single-frontier at higher quality**), MCP hub with approval-gated tools, cross-provider review | TypeScript · Cloudflare Workers · D1 |
@@ -21,7 +21,7 @@ Neuroscience × Computer Science (Korea University) → LLM agents, RAG systems,
 ## 🛠️ Products I Ship
 
 - **[AI PPT Studio](https://hyunaeee.github.io/ppt-test/)** — brand design systems → editable PPTX export, Claude-powered deck generation
-- **[TableON](https://hyunaeee.github.io/tableon/)** — restaurant SaaS with per-store AI business analyst (RFM CRM, payroll, reservations)
+- **[TableON](https://hyunaeee.github.io/aengdo-portfolio/tableon/)** — restaurant SaaS with per-store AI business analyst (RFM CRM, payroll, reservations)
 - **Mobile apps** — mental-care & breakup-recovery apps (planned/designed/built solo, Capacitor iOS/Android) · [try the live emulators](https://hyunaeee.github.io/aengdo-portfolio/portfolio.html)
 - **[Walk-Mate](https://hyunaeee.github.io/walk-mate/)** — themed Seoul walking courses on a tilted 3D map (Expo · MapLibre GL)
 - …and more in the [full portfolio](https://hyunaeee.github.io/aengdo-portfolio/portfolio.html) — 19 products with live links, GitHub, and honest project breakdowns
